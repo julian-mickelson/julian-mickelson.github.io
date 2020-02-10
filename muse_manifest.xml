@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="boisesthenewdenver.com" resolutions="1x" timestamp="1581064567889">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="boisesthenewdenver.com" resolutions="1x" timestamp="1581298240081">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="334797028" ref="index"/>
-    <file name="index.css" crc="332156299" ref="index"/>
+    <file name="index.css" crc="3928192150" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,5 +12,11 @@
     <file name="jquery.watch.js" crc="3844535323" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
-  <file name="index.html" crc="4040351731" seo="true" mt="1581064561610" redirect="true"/>
+  <folder name="images">
+    <file name="favicon.ico" crc="515468939" ref="index"/>
+    <file name="western white pine cone.png" crc="3962170551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="148021112" seo="true" mt="1581298160374" redirect="true"/>
 </manifest>
